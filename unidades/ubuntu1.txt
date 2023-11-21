@@ -1,0 +1,4 @@
+Ubuntu es una distribución GNU/Linux en Debian GNU/Linux, que incluye principalmente
+software libre y de codigo abierto. Puede utilizarse en ordenadores y servidores.
+Está orientado al usuario promedio, con unfuerte enfoque en la facilidad de uso y 
+en mejorar la experiencia del usuario.
