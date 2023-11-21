@@ -6,3 +6,6 @@ operativo denominado Windows el 20 de noviembre de 1985 como un complemento para
 respuesta al creciente interés en las interfaces gráficas de usuario (GUI).2​ Microsoft Windows
 llegó a dominar el mercado mundial de computadoras personales, con más del 90 % de la cuota de
 mercado, superando a Mac OS, que había sido introducido en 1984.
+La versión más reciente de Windows es Windows 10 para equipos de escritorio, Windows Server 2019
+para servidores y Windows 10 Mobile para dispositivos móviles. La primera versión en español fue
+Windows 2.1.
